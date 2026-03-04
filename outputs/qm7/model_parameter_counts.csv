@@ -1,0 +1,12 @@
+Model,Total Parameters
+Ridge,24
+SVR_RBF,137184
+RF_Regressor,1083894
+MLP_Regressor,0
+NumpyVQC,8
+NumpyQCNN,17
+NumpyQKernelSVM,3090
+NumpyQAOA,15
+HybridNet,0
+QuantumBoost,0
+QResNet,27
